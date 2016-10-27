@@ -1,0 +1,22 @@
+netstat -an -p tcp 
+
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)    
+tcp4       0      0  10.0.0.2.59753         54.221.3.35.443        ESTABLISHED
+tcp4       0      0  127.0.0.1.6234         *.*                    LISTEN     
+tcp4       0      0  10.0.0.2.59746         40.83.189.49.443       ESTABLISHED
+tcp4       0      0  10.0.0.2.59744         104.41.207.73.443      ESTABLISHED
+tcp4       0      0  10.0.0.2.59663         216.58.216.206.443     ESTABLISHED
+tcp4       0      0  10.0.0.2.59643         216.58.216.196.443     ESTABLISHED
+tcp4       0      0  127.0.0.1.631          *.*                    LISTEN     
+tcp6       0      0  ::1.631                *.*                    LISTEN     
+tcp4       0      0  10.0.0.2.59558         50.19.109.98.443       ESTABLISHED
+tcp4       0      0  10.0.0.2.58847         50.19.109.98.443       ESTABLISHED
+tcp4       0      0  10.0.0.2.58826         50.19.109.98.443       ESTABLISHED
+tcp4       0      0  10.0.0.2.58811         74.125.69.188.443      ESTABLISHED
+tcp4       0      0  10.0.0.2.58737         17.249.204.15.5223     ESTABLISHED
+tcp4       0      0  10.0.0.2.58736         17.188.165.205.5223    ESTABLISHED
+tcp4       0      0  10.0.0.3.58710         64.233.182.132.443     ESTABLISHED
+tcp4       0      0  10.0.0.3.51788         216.58.216.65.443      ESTABLISHED
+tcp4       0      0  192.168.180.2.49988    216.58.218.129.443     ESTABLISHED
+tcp4       0      0  10.0.0.2.59698         54.204.13.125.443      TIME_WAIT  
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
