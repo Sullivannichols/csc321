@@ -1,0 +1,1840 @@
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.110
+110.194.58.216.in-addr.arpa domain name pointer dfw06s48-in-f14.1e100.net.
+110.194.58.216.in-addr.arpa domain name pointer dfw06s48-in-f110.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.110
+110.194.58.216.in-addr.arpa domain name pointer dfw06s48-in-f14.1e100.net.
+110.194.58.216.in-addr.arpa domain name pointer dfw06s48-in-f110.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 157.240.3.35
+35.3.240.157.in-addr.arpa domain name pointer edge-star-mini-shv-01-dft4.facebook.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 111.13.101.208
+Host 208.101.13.111.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 123.125.114.144
+Host 144.114.125.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 180.149.132.47
+Host 47.132.149.180.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 220.181.57.217
+Host 217.57.181.220.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 98.139.183.24
+24.183.139.98.in-addr.arpa domain name pointer ir2.fp.vip.bf1.yahoo.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 98.138.253.109
+109.253.138.98.in-addr.arpa domain name pointer ir1.fp.vip.ne1.yahoo.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 206.190.36.45
+45.36.190.206.in-addr.arpa domain name pointer ir1.fp.vip.gq1.yahoo.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.25.200host 54.239.17.6
+
+
+
+host 54.239.26.128
+
+
+
+host 54.239.17.7
+
+
+
+host 54.239.25.192
+
+
+
+host 54.239.25.208
+
+
+host 208.80.153.224
+;; connection timed out; no servers could be reached
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.26.128
+Host 128.26.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.17.7
+Host 7.17.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.25.192
+Host 192.25.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.25.208
+Host 208.25.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 208.80.153.224
+224.153.80.208.in-addr.arpa domain name pointer text-lb.codfw.wikimedia.org.
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 125.39.240.113
+113.240.39.125.in-addr.arpa domain name pointer no-data.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 61.135.157.156
+Host 156.157.135.61.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.244.42.65
+Host 65.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.244.42.1
+Host 1.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.244.42.129
+Host 129.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.244.42.193
+Host 193.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 65.55.206.154
+;; Truncated, retrying in TCP mode.
+154.206.55.65.in-addr.arpa domain name pointer central-hotmail.biz.
+154.206.55.65.in-addr.arpa domain name pointer microsoft-skydrive.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivestuff.com.
+154.206.55.65.in-addr.arpa domain name pointer buymicrosoft.biz.
+154.206.55.65.in-addr.arpa domain name pointer buymicrosoft.org.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedevelopment.com.
+154.206.55.65.in-addr.arpa domain name pointer central-hotmail.us.
+154.206.55.65.in-addr.arpa domain name pointer windowslivevoice.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedrive.net.
+154.206.55.65.in-addr.arpa domain name pointer windowslivemobile.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedrive.mobi.
+154.206.55.65.in-addr.arpa domain name pointer windowsliveoffice.com.
+154.206.55.65.in-addr.arpa domain name pointer windowsliveweb.com.
+154.206.55.65.in-addr.arpa domain name pointer mapcruncher.org.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedrive.org.
+154.206.55.65.in-addr.arpa domain name pointer msnspaces.co.uk.
+154.206.55.65.in-addr.arpa domain name pointer inkblotpasswords.com.
+154.206.55.65.in-addr.arpa domain name pointer mapcruncher.com.
+154.206.55.65.in-addr.arpa domain name pointer windowsliverelease.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivecontent.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivecalling.com.
+154.206.55.65.in-addr.arpa domain name pointer windowsliveplatform.com.
+154.206.55.65.in-addr.arpa domain name pointer securehotmail.net.
+154.206.55.65.in-addr.arpa domain name pointer central-hotmail.com.
+154.206.55.65.in-addr.arpa domain name pointer buymicrosoft.us.
+154.206.55.65.in-addr.arpa domain name pointer windowslivespace.com.
+154.206.55.65.in-addr.arpa domain name pointer central-hotmail.net.
+154.206.55.65.in-addr.arpa domain name pointer windowslivetools.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedevice.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedrive.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivedev.com.
+154.206.55.65.in-addr.arpa domain name pointer buymicrosoft.info.
+154.206.55.65.in-addr.arpa domain name pointer securehotmail.biz.
+154.206.55.65.in-addr.arpa domain name pointer windowslivegame.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivesite.com.
+154.206.55.65.in-addr.arpa domain name pointer securehotmail.com.
+154.206.55.65.in-addr.arpa domain name pointer securehotmail.info.
+154.206.55.65.in-addr.arpa domain name pointer windowslivemedia.com.
+154.206.55.65.in-addr.arpa domain name pointer windowslivesecurity.com.
+154.206.55.65.in-addr.arpa domain name pointer mapcruncher.net.
+154.206.55.65.in-addr.arpa domain name pointer securehotmail.us.
+154.206.55.65.in-addr.arpa domain name pointer messengerskydrive.com.
+154.206.55.65.in-addr.arpa domain name pointer drivelive.com.
+154.206.55.65.in-addr.arpa domain name pointer securehotmail.org.
+154.206.55.65.in-addr.arpa domain name pointer msnskydrive.com.
+154.206.55.65.in-addr.arpa domain name pointer www.home.live.com.
+154.206.55.65.in-addr.arpa domain name pointer central-hotmail.org.
+154.206.55.65.in-addr.arpa domain name pointer central-hotmail.info.
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 140.205.220.96
+Host 96.220.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 140.205.94.189
+Host 189.94.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 204.79.197.200
+200.197.79.204.in-addr.arpa domain name pointer a-0001.a-msedge.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 13.107.21.200
+Host 200.21.107.13.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.175.107.36
+36.107.175.54.in-addr.arpa domain name pointer ec2-54-175-107-36.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.164.46.213
+213.46.164.54.in-addr.arpa domain name pointer ec2-54-164-46-213.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.173.161.156
+156.161.173.54.in-addr.arpa domain name pointer ec2-54-173-161-156.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.173.74.145
+145.74.173.54.in-addr.arpa domain name pointer ec2-54-173-74-145.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.173.152.112
+112.152.173.54.in-addr.arpa domain name pointer ec2-54-173-152-112.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.165.39.209
+209.39.165.54.in-addr.arpa domain name pointer ec2-54-165-39-209.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.172.44.240
+240.44.172.54.in-addr.arpa domain name pointer ec2-54-172-44-240.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.172.125.33
+33.125.172.54.in-addr.arpa domain name pointer ec2-54-172-125-33.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 180.149.134.141
+Host 141.134.149.180.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 180.149.134.142
+Host 142.134.149.180.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.108.33.107
+Host 107.33.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.108.33.60
+Host 60.33.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 108.174.10.10
+10.10.174.108.in-addr.arpa domain name pointer 108-174-10-10.fwd.linkedin.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 182.22.59.229
+229.59.22.182.in-addr.arpa domain name pointer f1.top.vip.ssk.yahoo.co.jp.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 183.79.135.206
+206.135.79.183.in-addr.arpa domain name pointer f1.top.vip.kks.yahoo.co.jp.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 13.88.15.24
+Host 24.15.88.13.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 87.240.165.91
+91.165.240.87.in-addr.arpa domain name pointer srv91-165-240-87.vk.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 87.240.165.83
+83.165.240.87.in-addr.arpa domain name pointer srv83-165-240-87.vk.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 87.240.165.84
+84.165.240.87.in-addr.arpa domain name pointer srv84-165-240-87.vk.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 77.88.55.77host 77.88.55.60
+
+
+
+host 5.255.255.50
+
+
+
+host 5.255.255.77
+
+
+host 123.125.114.224
+
+
+host 123.125.115.150
+
+
+host 180.149.131.31
+
+
+host 180.149.132.19
+
+
+
+host 216.58.194.35
+
+
+host 151.101.193.140
+
+
+host 151.101.129.140
+
+
+host 151.101.65.140
+
+
+
+host 151.101.1.140
+
+
+
+host 66.211.185.25
+
+
+
+host 66.211.162.12
+
+
+
+host 66.211.160.86
+
+
+host 66.135.216.190
+
+
+host 66.211.181.123
+
+
+
+host 66.135.209.52
+
+
+
+host 216.58.194.35
+
+
+
+host 199.59.148.12
+
+
+
+host 199.59.150.44
+
+
+host 140.205.94.193
+
+
+host 140.205.130.99
+
+
+
+host 216.58.194.35
+
+
+
+host 125.88.190.56
+
+
+
+host 220.181.90.20
+
+;; connection timed out; no servers could be reached
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 5.255.255.50
+50.255.255.5.in-addr.arpa domain name pointer yandex.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 5.255.255.77
+77.255.255.5.in-addr.arpa domain name pointer yandex.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 123.125.114.224
+Host 224.114.125.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 123.125.115.150
+Host 150.115.125.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 180.149.131.31
+Host 31.131.149.180.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 180.149.132.19
+Host 19.132.149.180.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.193.140
+Host 140.193.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.129.140
+Host 140.129.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.65.140
+Host 140.65.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.1.140
+Host 140.1.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.185.25
+Host 25.185.211.66.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.162.12
+Host 12.162.211.66.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.160.86
+86.160.211.66.in-addr.arpa domain name pointer ebay.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.135.216.190
+190.216.135.66.in-addr.arpa domain name pointer pages.ebay.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.181.123
+123.181.211.66.in-addr.arpa domain name pointer ebay.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.135.209.52
+52.209.135.66.in-addr.arpa domain name pointer ebay.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 199.59.148.12
+12.148.59.199.in-addr.arpa domain name pointer r-199-59-148-12.twttr.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 199.59.150.44
+44.150.59.199.in-addr.arpa domain name pointer r-199-59-150-44.twttr.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 140.205.94.193
+Host 193.94.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 140.205.130.99
+Host 99.130.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 125.88.190.56
+Host 56.190.88.125.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 220.181.90.20
+Host 20.90.181.220.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.240.248.0
+Host 0.248.240.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.240.250.0
+Host 0.250.240.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.240.252.0
+Host 0.252.240.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.235.37.84
+Host 84.37.235.23.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.156.81.84
+Host 84.81.156.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.156.85.84
+Host 84.85.156.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.235.33.84
+Host 84.33.235.23.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 217.69.139.199
+199.139.69.217.in-addr.arpa domain name pointer ms.mail.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 217.69.139.200
+200.139.69.217.in-addr.arpa domain name pointer cp.mail.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 94.100.180.201
+201.180.100.94.in-addr.arpa domain name pointer ko.mail.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 94.100.180.199
+199.180.100.94.in-addr.arpa domain name pointer ms.mail.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 206.54.163.4
+Host 4.163.54.206.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.88.83.29
+29.83.88.54.in-addr.arpa domain name pointer ec2-54-88-83-29.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.86.78.6
+6.78.86.54.in-addr.arpa domain name pointer ec2-54-86-78-6.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.206.181.38
+38.181.206.52.in-addr.arpa domain name pointer ec2-52-206-181-38.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.73.146.71
+71.146.73.52.in-addr.arpa domain name pointer ec2-52-73-146-71.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.206.68.176
+176.68.206.52.in-addr.arpa domain name pointer ec2-52-206-68-176.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.206.150.192
+192.150.206.52.in-addr.arpa domain name pointer ec2-52-206-150-192.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.0.47.132
+132.47.0.52.in-addr.arpa domain name pointer ec2-52-0-47-132.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.205.38.163
+163.38.205.52.in-addr.arpa domain name pointer ec2-52-205-38-163.compute-1.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 191.239.213.197
+Host 197.213.239.191.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.40.211.35
+Host 35.211.40.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.43.195.251
+Host 251.195.43.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.100.122.175
+Host 175.122.100.23.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.96.52.53
+Host 53.52.96.23.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 192.0.78.17
+Host 17.78.0.192.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 192.0.78.9
+Host 9.78.0.192.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 63.159.216.112
+Host 112.216.159.63.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 220.243.235.201
+Host 201.235.243.220.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.6.33.158
+Host 158.33.6.66.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.6.33.30
+Host 30.33.6.66.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.6.32.30host 64.4.250.24
+
+
+
+host 64.4.250.23
+
+
+
+host 216.58.194.41
+
+
+host 151.101.40.193
+
+
+
+host 151.101.1.69
+
+
+host 151.101.129.69
+
+
+host 151.101.193.69
+
+
+
+host 151.101.65.69
+
+
+host 198.11.132.250
+
+
+host 125.209.222.142
+
+
+host 202.179.177.22
+
+;; connection timed out; no servers could be reached
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 64.4.250.23
+23.250.4.64.in-addr.arpa domain name pointer paypal.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.41
+41.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f41.1e100.net.
+41.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f9.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.40.193
+Host 193.40.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.1.69
+Host 69.1.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.129.69
+Host 69.129.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.193.69
+Host 69.193.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.65.69
+Host 69.65.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 198.11.132.250
+Host 250.132.11.198.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 125.209.222.142
+Host 142.222.209.125.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.179.177.22
+Host 22.177.179.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.179.177.21
+Host 21.177.179.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 125.209.222.141
+Host 141.222.209.125.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 217.20.156.159
+159.156.20.217.in-addr.arpa domain name pointer ip159.156.odnoklassniki.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 5.61.23.5
+5.23.61.5.in-addr.arpa domain name pointer ip5.23.odnoklassniki.ru.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 17.142.160.59
+;; Truncated, retrying in TCP mode.
+59.160.142.17.in-addr.arpa domain name pointer applepaymerchantsupplies.info.
+59.160.142.17.in-addr.arpa domain name pointer applepay.info.
+59.160.142.17.in-addr.arpa domain name pointer applemasters.info.
+59.160.142.17.in-addr.arpa domain name pointer appleexpo.info.
+59.160.142.17.in-addr.arpa domain name pointer applecomputerinc.info.
+59.160.142.17.in-addr.arpa domain name pointer applecentre.info.
+59.160.142.17.in-addr.arpa domain name pointer airtunes.info.
+59.160.142.17.in-addr.arpa domain name pointer apple.by.
+59.160.142.17.in-addr.arpa domain name pointer apples-msk.ru.
+59.160.142.17.in-addr.arpa domain name pointer icloud.se.
+59.160.142.17.in-addr.arpa domain name pointer icloud.es.
+59.160.142.17.in-addr.arpa domain name pointer icloud.om.
+59.160.142.17.in-addr.arpa domain name pointer icloudo.com.
+59.160.142.17.in-addr.arpa domain name pointer icloud.ch.
+59.160.142.17.in-addr.arpa domain name pointer icloud.fr.
+59.160.142.17.in-addr.arpa domain name pointer icloude.com.
+59.160.142.17.in-addr.arpa domain name pointer camelspaceeffect.com.
+59.160.142.17.in-addr.arpa domain name pointer camelphat.com.
+59.160.142.17.in-addr.arpa domain name pointer alchemysynth.com.
+59.160.142.17.in-addr.arpa domain name pointer openni.org.
+59.160.142.17.in-addr.arpa domain name pointer swell.am.
+59.160.142.17.in-addr.arpa domain name pointer appleweb.net.
+59.160.142.17.in-addr.arpa domain name pointer apple.com.
+59.160.142.17.in-addr.arpa domain name pointer pv-apple-com.apple.com.
+59.160.142.17.in-addr.arpa domain name pointer ripmixburn.com.
+59.160.142.17.in-addr.arpa domain name pointer yessql.info.
+59.160.142.17.in-addr.arpa domain name pointer webobjects.info.
+59.160.142.17.in-addr.arpa domain name pointer ubnw.info.
+59.160.142.17.in-addr.arpa domain name pointer skyvines.info.
+59.160.142.17.in-addr.arpa domain name pointer shopdifferent.info.
+59.160.142.17.in-addr.arpa domain name pointer sherlock.info.
+59.160.142.17.in-addr.arpa domain name pointer quicktimetv.info.
+59.160.142.17.in-addr.arpa domain name pointer quicktimelive.info.
+59.160.142.17.in-addr.arpa domain name pointer powermac.info.
+59.160.142.17.in-addr.arpa domain name pointer powerbook.info.
+59.160.142.17.in-addr.arpa domain name pointer macosx.info.
+59.160.142.17.in-addr.arpa domain name pointer appleshare.info.
+59.160.142.17.in-addr.arpa domain name pointer applescript.info.
+59.160.142.17.in-addr.arpa domain name pointer applepaysupplies.info.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 17.172.224.47
+;; Truncated, retrying in TCP mode.
+47.224.172.17.in-addr.arpa domain name pointer quicktimelive.info.
+47.224.172.17.in-addr.arpa domain name pointer powermac.info.
+47.224.172.17.in-addr.arpa domain name pointer powerbook.info.
+47.224.172.17.in-addr.arpa domain name pointer macosx.info.
+47.224.172.17.in-addr.arpa domain name pointer appleshare.info.
+47.224.172.17.in-addr.arpa domain name pointer applescript.info.
+47.224.172.17.in-addr.arpa domain name pointer applepaysupplies.info.
+47.224.172.17.in-addr.arpa domain name pointer applepaymerchantsupplies.info.
+47.224.172.17.in-addr.arpa domain name pointer applepay.info.
+47.224.172.17.in-addr.arpa domain name pointer applemasters.info.
+47.224.172.17.in-addr.arpa domain name pointer appleexpo.info.
+47.224.172.17.in-addr.arpa domain name pointer applecomputerinc.info.
+47.224.172.17.in-addr.arpa domain name pointer applecentre.info.
+47.224.172.17.in-addr.arpa domain name pointer airtunes.info.
+47.224.172.17.in-addr.arpa domain name pointer apple.by.
+47.224.172.17.in-addr.arpa domain name pointer apples-msk.ru.
+47.224.172.17.in-addr.arpa domain name pointer icloud.se.
+47.224.172.17.in-addr.arpa domain name pointer icloud.es.
+47.224.172.17.in-addr.arpa domain name pointer icloud.om.
+47.224.172.17.in-addr.arpa domain name pointer icloudo.com.
+47.224.172.17.in-addr.arpa domain name pointer icloud.ch.
+47.224.172.17.in-addr.arpa domain name pointer icloud.fr.
+47.224.172.17.in-addr.arpa domain name pointer icloude.com.
+47.224.172.17.in-addr.arpa domain name pointer camelspaceeffect.com.
+47.224.172.17.in-addr.arpa domain name pointer camelphat.com.
+47.224.172.17.in-addr.arpa domain name pointer alchemysynth.com.
+47.224.172.17.in-addr.arpa domain name pointer openni.org.
+47.224.172.17.in-addr.arpa domain name pointer swell.am.
+47.224.172.17.in-addr.arpa domain name pointer appleweb.net.
+47.224.172.17.in-addr.arpa domain name pointer appleipodsettlement.com.
+47.224.172.17.in-addr.arpa domain name pointer earpod.net.
+47.224.172.17.in-addr.arpa domain name pointer xserve.net.
+47.224.172.17.in-addr.arpa domain name pointer xserve.com.
+47.224.172.17.in-addr.arpa domain name pointer velocityengine.com.
+47.224.172.17.in-addr.arpa domain name pointer velocity-engine.com.
+47.224.172.17.in-addr.arpa domain name pointer universityarts.com.
+47.224.172.17.in-addr.arpa domain name pointer thinkdifferent.com.
+47.224.172.17.in-addr.arpa domain name pointer theatremode.com.
+47.224.172.17.in-addr.arpa domain name pointer theatermode.com.
+47.224.172.17.in-addr.arpa domain name pointer streamquicktime.net.
+47.224.172.17.in-addr.arpa domain name pointer streamquicktime.com.
+47.224.172.17.in-addr.arpa domain name pointer ripmixburn.com.
+47.224.172.17.in-addr.arpa domain name pointer rip-mix-burn.com.
+47.224.172.17.in-addr.arpa domain name pointer quicktimestreaming.net.
+47.224.172.17.in-addr.arpa domain name pointer quicktimestreaming.com.
+47.224.172.17.in-addr.arpa domain name pointer quicktime.cc.
+47.224.172.17.in-addr.arpa domain name pointer qttv.net.
+47.224.172.17.in-addr.arpa domain name pointer qtml.com.
+47.224.172.17.in-addr.arpa domain name pointer qt-tv.net.
+47.224.172.17.in-addr.arpa domain name pointer publishingsurvey.org.
+47.224.172.17.in-addr.arpa domain name pointer publishingsurvey.com.
+47.224.172.17.in-addr.arpa domain name pointer publishingresearch.org.
+47.224.172.17.in-addr.arpa domain name pointer publishingresearch.com.
+47.224.172.17.in-addr.arpa domain name pointer publishing-survey.org.
+47.224.172.17.in-addr.arpa domain name pointer publishing-survey.com.
+47.224.172.17.in-addr.arpa domain name pointer publishing-research.org.
+47.224.172.17.in-addr.arpa domain name pointer publishing-research.com.
+47.224.172.17.in-addr.arpa domain name pointer powerbook.cc.
+47.224.172.17.in-addr.arpa domain name pointer playquicktime.net.
+47.224.172.17.in-addr.arpa domain name pointer playquicktime.com.
+47.224.172.17.in-addr.arpa domain name pointer nwk-apple.apple.com.
+47.224.172.17.in-addr.arpa domain name pointer myapple.net.
+47.224.172.17.in-addr.arpa domain name pointer macreach.net.
+47.224.172.17.in-addr.arpa domain name pointer macreach.com.
+47.224.172.17.in-addr.arpa domain name pointer macmate.com.
+47.224.172.17.in-addr.arpa domain name pointer macintoshsoftware.com.
+47.224.172.17.in-addr.arpa domain name pointer machos.net.
+47.224.172.17.in-addr.arpa domain name pointer mach-os.net.
+47.224.172.17.in-addr.arpa domain name pointer mach-os.com.
+47.224.172.17.in-addr.arpa domain name pointer ischool.com.
+47.224.172.17.in-addr.arpa domain name pointer insidemacintosh.com.
+47.224.172.17.in-addr.arpa domain name pointer imovietheater.com.
+47.224.172.17.in-addr.arpa domain name pointer imoviestage.com.
+47.224.172.17.in-addr.arpa domain name pointer imoviegallery.com.
+47.224.172.17.in-addr.arpa domain name pointer imacsources.com.
+47.224.172.17.in-addr.arpa domain name pointer imac-applecomputer.com.
+47.224.172.17.in-addr.arpa domain name pointer imac-apple.com.
+47.224.172.17.in-addr.arpa domain name pointer ikids.com.
+47.224.172.17.in-addr.arpa domain name pointer ibookpartner.com.
+47.224.172.17.in-addr.arpa domain name pointer geoport.com.
+47.224.172.17.in-addr.arpa domain name pointer firewire.cl.
+47.224.172.17.in-addr.arpa domain name pointer expertapple.com.
+47.224.172.17.in-addr.arpa domain name pointer edu-research.org.
+47.224.172.17.in-addr.arpa domain name pointer dvdstudiopro.us.
+47.224.172.17.in-addr.arpa domain name pointer dvdstudiopro.org.
+47.224.172.17.in-addr.arpa domain name pointer dvdstudiopro.net.
+47.224.172.17.in-addr.arpa domain name pointer dvdstudiopro.info.
+47.224.172.17.in-addr.arpa domain name pointer dvdstudiopro.com.
+47.224.172.17.in-addr.arpa domain name pointer dvdstudiopro.biz.
+47.224.172.17.in-addr.arpa domain name pointer developercentral.com.
+47.224.172.17.in-addr.arpa domain name pointer desktopmovies.org.
+47.224.172.17.in-addr.arpa domain name pointer desktopmovies.net.
+47.224.172.17.in-addr.arpa domain name pointer desktopmovie.org.
+47.224.172.17.in-addr.arpa domain name pointer desktopmovie.net.
+47.224.172.17.in-addr.arpa domain name pointer desktopmovie.com.
+47.224.172.17.in-addr.arpa domain name pointer darwinsourcecode.com.
+47.224.172.17.in-addr.arpa domain name pointer darwinsource.org.
+47.224.172.17.in-addr.arpa domain name pointer darwinsource.com.
+47.224.172.17.in-addr.arpa domain name pointer darwincode.com.
+47.224.172.17.in-addr.arpa domain name pointer carbontest.com.
+47.224.172.17.in-addr.arpa domain name pointer carbondating.com.
+47.224.172.17.in-addr.arpa domain name pointer carbonapi.com.
+47.224.172.17.in-addr.arpa domain name pointer braeburncapital.com.
+47.224.172.17.in-addr.arpa domain name pointer applexpo.net.
+47.224.172.17.in-addr.arpa domain name pointer applexpo.com.
+47.224.172.17.in-addr.arpa domain name pointer applereach.net.
+47.224.172.17.in-addr.arpa domain name pointer applereach.com.
+47.224.172.17.in-addr.arpa domain name pointer appleiservices.com.
+47.224.172.17.in-addr.arpa domain name pointer applefinalcutproworld.org.
+47.224.172.17.in-addr.arpa domain name pointer applefinalcutproworld.net.
+47.224.172.17.in-addr.arpa domain name pointer applefinalcutproworld.com.
+47.224.172.17.in-addr.arpa domain name pointer applefilmmaker.com.
+47.224.172.17.in-addr.arpa domain name pointer applefilmaker.com.
+47.224.172.17.in-addr.arpa domain name pointer appleenews.com.
+47.224.172.17.in-addr.arpa domain name pointer appledarwin.org.
+47.224.172.17.in-addr.arpa domain name pointer appledarwin.net.
+47.224.172.17.in-addr.arpa domain name pointer appledarwin.com.
+47.224.172.17.in-addr.arpa domain name pointer applecomputerimac.com.
+47.224.172.17.in-addr.arpa domain name pointer applecomputer-imac.com.
+47.224.172.17.in-addr.arpa domain name pointer applecare.cc.
+47.224.172.17.in-addr.arpa domain name pointer applecarbon.com.
+47.224.172.17.in-addr.arpa domain name pointer apple-inc.net.
+47.224.172.17.in-addr.arpa domain name pointer apple-enews.com.
+47.224.172.17.in-addr.arpa domain name pointer apple-darwin.org.
+47.224.172.17.in-addr.arpa domain name pointer apple-darwin.net.
+47.224.172.17.in-addr.arpa domain name pointer apple-darwin.com.
+47.224.172.17.in-addr.arpa domain name pointer mobileme.com.
+47.224.172.17.in-addr.arpa domain name pointer ipa-iphone.net.
+47.224.172.17.in-addr.arpa domain name pointer jetfuelapps.com.
+47.224.172.17.in-addr.arpa domain name pointer jetfuelapp.com.
+47.224.172.17.in-addr.arpa domain name pointer burstly.net.
+47.224.172.17.in-addr.arpa domain name pointer appmediagroup.com.
+47.224.172.17.in-addr.arpa domain name pointer airsupportapp.com.
+47.224.172.17.in-addr.arpa domain name pointer burstlyrewards.com.
+47.224.172.17.in-addr.arpa domain name pointer surveys-temp.apple.com.
+47.224.172.17.in-addr.arpa domain name pointer appleiphone.com.
+47.224.172.17.in-addr.arpa domain name pointer asto.re.
+47.224.172.17.in-addr.arpa domain name pointer itunesops.com.
+47.224.172.17.in-addr.arpa domain name pointer apple.com.
+47.224.172.17.in-addr.arpa domain name pointer st11p01ww-apple.apple.com.
+47.224.172.17.in-addr.arpa domain name pointer yessql.info.
+47.224.172.17.in-addr.arpa domain name pointer webobjects.info.
+47.224.172.17.in-addr.arpa domain name pointer ubnw.info.
+47.224.172.17.in-addr.arpa domain name pointer skyvines.info.
+47.224.172.17.in-addr.arpa domain name pointer shopdifferent.info.
+47.224.172.17.in-addr.arpa domain name pointer sherlock.info.
+47.224.172.17.in-addr.arpa domain name pointer quicktimetv.info.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 17.178.96.59
+;; Truncated, retrying in TCP mode.
+59.96.178.17.in-addr.arpa domain name pointer yessql.info.
+59.96.178.17.in-addr.arpa domain name pointer webobjects.info.
+59.96.178.17.in-addr.arpa domain name pointer ubnw.info.
+59.96.178.17.in-addr.arpa domain name pointer skyvines.info.
+59.96.178.17.in-addr.arpa domain name pointer shopdifferent.info.
+59.96.178.17.in-addr.arpa domain name pointer sherlock.info.
+59.96.178.17.in-addr.arpa domain name pointer quicktimetv.info.
+59.96.178.17.in-addr.arpa domain name pointer quicktimelive.info.
+59.96.178.17.in-addr.arpa domain name pointer powermac.info.
+59.96.178.17.in-addr.arpa domain name pointer powerbook.info.
+59.96.178.17.in-addr.arpa domain name pointer macosx.info.
+59.96.178.17.in-addr.arpa domain name pointer appleshare.info.
+59.96.178.17.in-addr.arpa domain name pointer applescript.info.
+59.96.178.17.in-addr.arpa domain name pointer applepaysupplies.info.
+59.96.178.17.in-addr.arpa domain name pointer applepaymerchantsupplies.info.
+59.96.178.17.in-addr.arpa domain name pointer applepay.info.
+59.96.178.17.in-addr.arpa domain name pointer applemasters.info.
+59.96.178.17.in-addr.arpa domain name pointer appleexpo.info.
+59.96.178.17.in-addr.arpa domain name pointer applecomputerinc.info.
+59.96.178.17.in-addr.arpa domain name pointer applecentre.info.
+59.96.178.17.in-addr.arpa domain name pointer airtunes.info.
+59.96.178.17.in-addr.arpa domain name pointer apple.by.
+59.96.178.17.in-addr.arpa domain name pointer apples-msk.ru.
+59.96.178.17.in-addr.arpa domain name pointer icloud.se.
+59.96.178.17.in-addr.arpa domain name pointer icloud.es.
+59.96.178.17.in-addr.arpa domain name pointer icloud.om.
+59.96.178.17.in-addr.arpa domain name pointer icloudo.com.
+59.96.178.17.in-addr.arpa domain name pointer icloud.ch.
+59.96.178.17.in-addr.arpa domain name pointer icloud.fr.
+59.96.178.17.in-addr.arpa domain name pointer icloude.com.
+59.96.178.17.in-addr.arpa domain name pointer camelspaceeffect.com.
+59.96.178.17.in-addr.arpa domain name pointer camelphat.com.
+59.96.178.17.in-addr.arpa domain name pointer alchemysynth.com.
+59.96.178.17.in-addr.arpa domain name pointer openni.org.
+59.96.178.17.in-addr.arpa domain name pointer swell.am.
+59.96.178.17.in-addr.arpa domain name pointer appleweb.net.
+59.96.178.17.in-addr.arpa domain name pointer appleipodsettlement.com.
+59.96.178.17.in-addr.arpa domain name pointer earpod.net.
+59.96.178.17.in-addr.arpa domain name pointer xserve.net.
+59.96.178.17.in-addr.arpa domain name pointer xserve.com.
+59.96.178.17.in-addr.arpa domain name pointer velocityengine.com.
+59.96.178.17.in-addr.arpa domain name pointer velocity-engine.com.
+59.96.178.17.in-addr.arpa domain name pointer universityarts.com.
+59.96.178.17.in-addr.arpa domain name pointer thinkdifferent.com.
+59.96.178.17.in-addr.arpa domain name pointer theatremode.com.
+59.96.178.17.in-addr.arpa domain name pointer theatermode.com.
+59.96.178.17.in-addr.arpa domain name pointer streamquicktime.net.
+59.96.178.17.in-addr.arpa domain name pointer streamquicktime.com.
+59.96.178.17.in-addr.arpa domain name pointer ripmixburn.com.
+59.96.178.17.in-addr.arpa domain name pointer rip-mix-burn.com.
+59.96.178.17.in-addr.arpa domain name pointer quicktimestreaming.net.
+59.96.178.17.in-addr.arpa domain name pointer quicktimestreaming.com.
+59.96.178.17.in-addr.arpa domain name pointer quicktime.cc.
+59.96.178.17.in-addr.arpa domain name pointer qttv.net.
+59.96.178.17.in-addr.arpa domain name pointer qtml.com.
+59.96.178.17.in-addr.arpa domain name pointer qt-tv.net.
+59.96.178.17.in-addr.arpa domain name pointer publishingsurvey.org.
+59.96.178.17.in-addr.arpa domain name pointer publishingsurvey.com.
+59.96.178.17.in-addr.arpa domain name pointer publishingresearch.org.
+59.96.178.17.in-addr.arpa domain name pointer publishingresearch.com.
+59.96.178.17.in-addr.arpa domain name pointer publishing-survey.org.
+59.96.178.17.in-addr.arpa domain name pointer publishing-survey.com.
+59.96.178.17.in-addr.arpa domain name pointer publishing-research.org.
+59.96.178.17.in-addr.arpa domain name pointer publishing-research.com.
+59.96.178.17.in-addr.arpa domain name pointer powerbook.cc.
+59.96.178.17.in-addr.arpa domain name pointer playquicktime.net.
+59.96.178.17.in-addr.arpa domain name pointer playquicktime.com.
+59.96.178.17.in-addr.arpa domain name pointer nwk-apple.apple.com.
+59.96.178.17.in-addr.arpa domain name pointer myapple.net.
+59.96.178.17.in-addr.arpa domain name pointer macreach.net.
+59.96.178.17.in-addr.arpa domain name pointer macreach.com.
+59.96.178.17.in-addr.arpa domain name pointer macmate.com.
+59.96.178.17.in-addr.arpa domain name pointer macintoshsoftware.com.
+59.96.178.17.in-addr.arpa domain name pointer machos.net.
+59.96.178.17.in-addr.arpa domain name pointer mach-os.net.
+59.96.178.17.in-addr.arpa domain name pointer mach-os.com.
+59.96.178.17.in-addr.arpa domain name pointer itunesops.com.
+59.96.178.17.in-addr.arpa domain name pointer ischool.com.
+59.96.178.17.in-addr.arpa domain name pointer insidemacintosh.com.
+59.96.178.17.in-addr.arpa domain name pointer imovietheater.com.
+59.96.178.17.in-addr.arpa domain name pointer imoviestage.com.
+59.96.178.17.in-addr.arpa domain name pointer imoviegallery.com.
+59.96.178.17.in-addr.arpa domain name pointer imacsources.com.
+59.96.178.17.in-addr.arpa domain name pointer imac-applecomputer.com.
+59.96.178.17.in-addr.arpa domain name pointer imac-apple.com.
+59.96.178.17.in-addr.arpa domain name pointer ikids.com.
+59.96.178.17.in-addr.arpa domain name pointer ibookpartner.com.
+59.96.178.17.in-addr.arpa domain name pointer geoport.com.
+59.96.178.17.in-addr.arpa domain name pointer firewire.cl.
+59.96.178.17.in-addr.arpa domain name pointer expertapple.com.
+59.96.178.17.in-addr.arpa domain name pointer edu-research.org.
+59.96.178.17.in-addr.arpa domain name pointer dvdstudiopro.us.
+59.96.178.17.in-addr.arpa domain name pointer dvdstudiopro.org.
+59.96.178.17.in-addr.arpa domain name pointer dvdstudiopro.net.
+59.96.178.17.in-addr.arpa domain name pointer dvdstudiopro.info.
+59.96.178.17.in-addr.arpa domain name pointer dvdstudiopro.com.
+59.96.178.17.in-addr.arpa domain name pointer dvdstudiopro.biz.
+59.96.178.17.in-addr.arpa domain name pointer developercentral.com.
+59.96.178.17.in-addr.arpa domain name pointer desktopmovies.org.
+59.96.178.17.in-addr.arpa domain name pointer desktopmovies.net.
+59.96.178.17.in-addr.arpa domain name pointer desktopmovie.org.
+59.96.178.17.in-addr.arpa domain name pointer desktopmovie.net.
+59.96.178.17.in-addr.arpa domain name pointer desktopmovie.com.
+59.96.178.17.in-addr.arpa domain name pointer darwinsourcecode.com.
+59.96.178.17.in-addr.arpa domain name pointer darwinsource.org.
+59.96.178.17.in-addr.arpa domain name pointer darwinsource.com.
+59.96.178.17.in-addr.arpa domain name pointer darwincode.com.
+59.96.178.17.in-addr.arpa domain name pointer carbontest.com.
+59.96.178.17.in-addr.arpa domain name pointer carbondating.com.
+59.96.178.17.in-addr.arpa domain name pointer carbonapi.com.
+59.96.178.17.in-addr.arpa domain name pointer braeburncapital.com.
+59.96.178.17.in-addr.arpa domain name pointer asto.re.
+59.96.178.17.in-addr.arpa domain name pointer applexpo.net.
+59.96.178.17.in-addr.arpa domain name pointer applexpo.com.
+59.96.178.17.in-addr.arpa domain name pointer applereach.net.
+59.96.178.17.in-addr.arpa domain name pointer applereach.com.
+59.96.178.17.in-addr.arpa domain name pointer appleiservices.com.
+59.96.178.17.in-addr.arpa domain name pointer appleiphone.com.
+59.96.178.17.in-addr.arpa domain name pointer applefinalcutproworld.org.
+59.96.178.17.in-addr.arpa domain name pointer applefinalcutproworld.net.
+59.96.178.17.in-addr.arpa domain name pointer applefinalcutproworld.com.
+59.96.178.17.in-addr.arpa domain name pointer applefilmmaker.com.
+59.96.178.17.in-addr.arpa domain name pointer applefilmaker.com.
+59.96.178.17.in-addr.arpa domain name pointer appleenews.com.
+59.96.178.17.in-addr.arpa domain name pointer appledarwin.org.
+59.96.178.17.in-addr.arpa domain name pointer appledarwin.net.
+59.96.178.17.in-addr.arpa domain name pointer appledarwin.com.
+59.96.178.17.in-addr.arpa domain name pointer applecomputerimac.com.
+59.96.178.17.in-addr.arpa domain name pointer applecomputer-imac.com.
+59.96.178.17.in-addr.arpa domain name pointer applecare.cc.
+59.96.178.17.in-addr.arpa domain name pointer applecarbon.com.
+59.96.178.17.in-addr.arpa domain name pointer apple-inc.net.
+59.96.178.17.in-addr.arpa domain name pointer apple-enews.com.
+59.96.178.17.in-addr.arpa domain name pointer apple-darwin.org.
+59.96.178.17.in-addr.arpa domain name pointer apple-darwin.net.
+59.96.178.17.in-addr.arpa domain name pointer apple-darwin.com.
+59.96.178.17.in-addr.arpa domain name pointer mobileme.com.
+59.96.178.17.in-addr.arpa domain name pointer ipa-iphone.net.
+59.96.178.17.in-addr.arpa domain name pointer jetfuelapps.com.
+59.96.178.17.in-addr.arpa domain name pointer jetfuelapp.com.
+59.96.178.17.in-addr.arpa domain name pointer burstly.net.
+59.96.178.17.in-addr.arpa domain name pointer appmediagroup.com.
+59.96.178.17.in-addr.arpa domain name pointer airsupportapp.com.
+59.96.178.17.in-addr.arpa domain name pointer burstlyrewards.com.
+59.96.178.17.in-addr.arpa domain name pointer surveys-temp.apple.com.
+59.96.178.17.in-addr.arpa domain name pointer apple.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 192.30.253.112
+Host 112.253.30.192.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 192.30.253.113
+Host 113.253.30.192.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 124.127.180.200
+200.180.127.124.in-addr.arpa domain name pointer 200.180.127.124.broad.bj.bj.static.163data.com.cn.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 72.21.206.80
+80.206.21.72.in-addr.arpa domain name pointer 206-80.amazon.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 72.21.210.29
+29.210.21.72.in-addr.arpa domain name pointer 210-29.amazon.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 207.171.166.22
+22.166.171.207.in-addr.arpa domain name pointer 166-22.amazon.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.41.146.181
+181.146.41.52.in-addr.arpa domain name pointer ec2-52-41-146-181.us-west-2.compute.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.187.26.65
+65.26.187.54.in-addr.arpa domain name pointer ec2-54-187-26-65.us-west-2.compute.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 111.206.227.118
+Host 118.227.206.111.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.41
+41.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f9.1e100.net.
+41.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f41.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 123.58.180.7
+Host 7.180.58.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 123.58.180.8
+Host 8.180.58.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 169.44.84.178
+178.84.44.169.in-addr.arpa domain name pointer b2.54.2ca9.ip4.static.sl-reverse.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 169.44.82.102
+102.82.44.169.in-addr.arpa domain name pointer 66.52.2ca9.ip4.static.sl-reverse.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 184.173.147.38
+38.147.173.184.in-addr.arpa domain name pointer 26.93.adb8.ip4.static.sl-reverse.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 192.155.212.203
+203.212.155.192.in-addr.arpa domain name pointer cb.d4.9bc0.ip4.static.sl-reverse.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 184.173.147.39
+39.147.173.184.in-addr.arpa domain name pointer 27.93.adb8.ip4.static.sl-reverse.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 192.155.212.202
+202.212.155.192.in-addr.arpa domain name pointer ca.d4.9bc0.ip4.static.sl-reverse.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.32.8
+Host 8.32.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.34.40
+Host 40.34.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 178.236.7.18
+Host 18.7.236.178.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.215.194.17
+Host 17.194.215.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 137.116.172.39
+Host 39.172.116.137.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 13.69.187.20
+Host 20.187.69.13.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.40.225.204
+Host 204.225.40.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 40.117.226.146
+Host 146.226.117.40.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.214.38.136
+Host 136.38.214.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.41.62.54
+Host 54.62.41.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 124.225.65.154host 216.58.194.35
+
+
+
+host 43.250.12.42
+
+
+
+host 59.82.2.37
+
+
+host 133.237.48.124
+
+
+host 208.82.237.129
+
+
+
+host 54.239.34.172
+
+
+host 178.236.7.219
+
+
+
+host 54.239.32.138
+
+
+host 202.248.110.184
+
+
+
+host 216.58.194.35
+
+
+host 106.120.151.169
+
+
+
+host 42.96.146.169
+
+
+
+host 120.24.248.50
+
+
+host 108.160.172.238
+
+
+host 108.160.172.206
+
+
+host 202.108.119.193
+
+
+host 202.108.119.194
+
+;; connection timed out; no servers could be reached
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 43.250.12.42
+Host 42.12.250.43.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 59.82.2.37
+Host 37.2.82.59.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 133.237.48.124
+124.48.237.133.in-addr.arpa domain name pointer redirect.rakuten.co.jp.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 208.82.237.129
+129.237.82.208.in-addr.arpa domain name pointer www.craigslist.org.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.34.172
+Host 172.34.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 178.236.7.219
+Host 219.7.236.178.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.32.138
+Host 138.32.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.248.110.184
+Host 184.110.248.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 106.120.151.169
+Host 169.151.120.106.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 42.96.146.169
+Host 169.146.96.42.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 120.24.248.50
+Host 50.248.24.120.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 108.160.172.238
+238.172.160.108.in-addr.arpa domain name pointer www.v.dropbox.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 108.160.172.206
+206.172.160.108.in-addr.arpa domain name pointer www.v.dropbox.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.108.119.193
+Host 193.119.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.108.119.194
+Host 194.119.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 50.31.185.42
+42.185.31.50.in-addr.arpa domain name pointer unknown.servercentral.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 50.31.185.43
+43.185.31.50.in-addr.arpa domain name pointer unknown.servercentral.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 64.74.232.42
+Host 42.232.74.64.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 64.74.232.43
+Host 43.232.74.64.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 103.23.108.107
+107.108.23.103.in-addr.arpa domain name pointer ip-103-23-108-107.static.pixnet.tw.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 198.11.132.23
+Host 23.132.11.198.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 205.204.101.42
+Host 42.101.204.205.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 110.76.19.33
+Host 33.19.76.110.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 110.76.20.33
+
+
+
+host 65.55.39.10
+
+
+
+host 64.4.6.100
+
+
+
+host 216.58.194.35
+
+
+
+host 5.57.16.220
+
+
+
+host 216.58.194.35
+
+
+
+host 216.21.13.13
+
+
+
+host 216.21.13.12
+
+
+
+host 202.108.8.82
+
+
+host 54.223.189.245
+
+Host 33.20.76.110.in-addr.arpa not found: 2(SERVFAIL)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 65.55.39.10
+10.39.55.65.in-addr.arpa domain name pointer xnacreators.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 64.4.6.100
+;; Truncated, retrying in TCP mode.
+;; communications error to 8.8.8.8#53: end of file
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 5.57.16.220
+220.16.57.5.in-addr.arpa domain name pointer www.booking.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.21.13.13
+Host 13.13.21.216.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.21.13.12
+Host 12.13.21.216.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 202.108.8.82
+82.8.108.202.in-addr.arpa domain name pointer zz-8-82-a8.bta.net.cn.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.223.189.245
+245.189.223.54.in-addr.arpa domain name pointer ec2-54-223-189-245.cn-north-1.compute.amazonaws.com.cn.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 178.236.6.251
+Host 251.6.236.178.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 176.32.108.186
+Host 186.108.32.176.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 54.239.36.155
+Host 155.36.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.2.251.20
+20.251.2.23.in-addr.arpa domain name pointer a23-2-251-20.deploy.static.akamaitechnologies.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 123.30.175.29
+29.175.30.123.in-addr.arpa domain name pointer coccoc.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.64.73
+Host 73.64.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.128.73
+Host 73.128.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.192.73
+Host 73.192.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 151.101.0.73
+Host 73.0.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 212.58.244.22
+Host 22.244.58.212.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 212.58.244.23
+Host 23.244.58.212.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 212.58.246.79
+Host 79.246.58.212.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 212.58.246.78
+Host 78.246.58.212.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 50.112.196.159
+159.196.112.50.in-addr.arpa domain name pointer ec2-50-112-196-159.us-west-2.compute.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.41.96.17
+17.96.41.52.in-addr.arpa domain name pointer ec2-52-41-96-17.us-west-2.compute.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 52.36.196.57
+57.196.36.52.in-addr.arpa domain name pointer ec2-52-36-196-57.us-west-2.compute.amazonaws.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.156.81.194
+Host 194.81.156.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.235.37.194
+Host 194.37.235.23.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 104.156.85.194
+Host 194.85.156.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 23.235.33.194
+Host 194.33.235.23.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 199.181.131.249
+Host 249.131.181.199.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.135.211.132
+132.211.135.66.in-addr.arpa domain name pointer pages.intl.ebay.com.
+132.211.135.66.in-addr.arpa domain name pointer benl.ebay.be.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.135.201.153
+Host 153.201.135.66.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.185.77
+77.185.211.66.in-addr.arpa domain name pointer ebay.de.
+77.185.211.66.in-addr.arpa domain name pointer ebay.es.
+77.185.211.66.in-addr.arpa domain name pointer ebay.in.
+77.185.211.66.in-addr.arpa domain name pointer ebay.pl.
+77.185.211.66.in-addr.arpa domain name pointer ebay.co.uk.
+77.185.211.66.in-addr.arpa domain name pointer ebay.com.au.
+77.185.211.66.in-addr.arpa domain name pointer ebay.ie.
+77.185.211.66.in-addr.arpa domain name pointer ebay.com.hk.
+77.185.211.66.in-addr.arpa domain name pointer ebay.fr.
+77.185.211.66.in-addr.arpa domain name pointer befr.ebay.be.
+77.185.211.66.in-addr.arpa domain name pointer ebay.nl.
+77.185.211.66.in-addr.arpa domain name pointer ebay.be.
+77.185.211.66.in-addr.arpa domain name pointer ebay.ca.
+77.185.211.66.in-addr.arpa domain name pointer ebay.ch.
+77.185.211.66.in-addr.arpa domain name pointer ebay.com.my.
+77.185.211.66.in-addr.arpa domain name pointer ebay.com.sg.
+77.185.211.66.in-addr.arpa domain name pointer ebay.it.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.181.20
+20.181.211.66.in-addr.arpa domain name pointer benl.ebay.be.
+20.181.211.66.in-addr.arpa domain name pointer ebay.be.
+20.181.211.66.in-addr.arpa domain name pointer ebay.ca.
+20.181.211.66.in-addr.arpa domain name pointer ebay.ch.
+20.181.211.66.in-addr.arpa domain name pointer ebay.com.my.
+20.181.211.66.in-addr.arpa domain name pointer ebay.com.sg.
+20.181.211.66.in-addr.arpa domain name pointer ebay.de.
+20.181.211.66.in-addr.arpa domain name pointer ebay.in.
+20.181.211.66.in-addr.arpa domain name pointer ebay.es.
+20.181.211.66.in-addr.arpa domain name pointer ebay.ph.
+20.181.211.66.in-addr.arpa domain name pointer ebay.co.uk.
+20.181.211.66.in-addr.arpa domain name pointer ebay.com.au.
+20.181.211.66.in-addr.arpa domain name pointer ebay.com.hk.
+20.181.211.66.in-addr.arpa domain name pointer befr.ebay.be.
+20.181.211.66.in-addr.arpa domain name pointer ebay.ie.
+20.181.211.66.in-addr.arpa domain name pointer ebay.fr.
+20.181.211.66.in-addr.arpa domain name pointer ebay.nl.
+20.181.211.66.in-addr.arpa domain name pointer ebay.it.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 66.211.181.235
+235.181.211.66.in-addr.arpa domain name pointer pages.intl.ebay.com.
+235.181.211.66.in-addr.arpa domain name pointer benl.ebay.be.
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host kat.cr no
+Host: couldn't get address for 'no': not found
+Nicholss-MacBook-Air:~ NicholsSullivan$ host Host kat.cr not found: 3(NXDOMAIN)
+-bash: syntax error near unexpected token `('
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 186.192.90.5
+5.90.192.186.in-addr.arpa domain name pointer 186-192-90-5.ptr.globo.com.
+5.90.192.186.in-addr.arpa domain name pointer redirect.globo.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 200.147.67.142
+142.67.147.200.in-addr.arpa domain name pointer 200-147-67-142.static.uol.com.br.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 200.221.2.45
+45.2.221.200.in-addr.arpa domain name pointer home.uol.com.br.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 185.89.12.132
+Host 132.12.89.185.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.157
+Host 157.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.148
+Host 148.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.158
+Host 158.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.172
+Host 172.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.183
+Host 183.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.178
+Host 178.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.163
+Host 163.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.187
+Host 187.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.162
+Host 162.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.177
+Host 177.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.167
+Host 167.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.173
+Host 173.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.153
+Host 153.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.168
+Host 168.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.182
+Host 182.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 4.35.2.152
+Host 152.2.35.4.in-addr.arpa. not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.35
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.46
+46.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f46.1e100.net.
+46.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f14.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 213.180.141.140
+140.141.180.213.in-addr.arpa domain name pointer sg1.any.onet.pl.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.34
+34.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f34.1e100.net.
+34.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f2.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 207.242.93.24
+24.93.242.207.in-addr.arpa has no PTR record
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.58.194.33
+33.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f1.1e100.net.
+33.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f33.1e100.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.115.96.177
+177.96.115.216.in-addr.arpa domain name pointer e1.ycpi.vip.cha.yahoo.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.115.96.178
+178.96.115.216.in-addr.arpa domain name pointer e2.ycpi.vip.cha.yahoo.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.115.110.119
+119.110.115.216.in-addr.arpa domain name pointer r2.ycpi.vip.che.yahoo.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
+Nicholss-MacBook-Air:~ NicholsSullivan$ host 216.115.110.118
+118.110.115.216.in-addr.arpa domain name pointer r1.ycpi.vip.che.yahoo.net.
+Nicholss-MacBook-Air:~ NicholsSullivan$ 
