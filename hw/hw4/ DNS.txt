@@ -1,0 +1,558 @@
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com
+google.com has address 216.58.194.110
+google.com has IPv6 address 2607:f8b0:4000:80c::200e
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host youtube.com
+youtube.com has address 216.58.194.110
+youtube.com has IPv6 address 2607:f8b0:4000:80c::200e
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host facebook.com
+facebook.com has address 157.240.3.35
+facebook.com has IPv6 address 2a03:2880:f113:83:face:b00c::25de
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host baidu.com
+baidu.com has address 111.13.101.208
+baidu.com has address 123.125.114.144
+baidu.com has address 180.149.132.47
+baidu.com has address 220.181.57.217
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host yahoo.com
+yahoo.com has address 98.139.183.24
+yahoo.com has address 98.138.253.109
+yahoo.com has address 206.190.36.45
+yahoo.com has IPv6 address 2001:4998:c:a06::2:4008
+yahoo.com has IPv6 address 2001:4998:44:204::a7
+yahoo.com has IPv6 address 2001:4998:58:c02::a9
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host amazon.com
+amazon.com has address 54.239.25.200
+amazon.com has address 54.239.17.6
+amazon.com has address 54.239.26.128
+amazon.com has address 54.239.17.7
+amazon.com has address 54.239.25.192
+amazon.com has address 54.239.25.208
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host wikipedia.org
+wikipedia.org has address 208.80.153.224
+wikipedia.org has IPv6 address 2620:0:860:ed1a::1
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host qq.com
+qq.com has address 125.39.240.113
+qq.com has address 61.135.157.156
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.co.in
+google.co.in has address 216.58.194.35
+google.co.in has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host twitter.com
+twitter.com has address 104.244.42.65
+twitter.com has address 104.244.42.1
+twitter.com has address 104.244.42.129
+twitter.com has address 104.244.42.193
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host live.com
+live.com has address 65.55.206.154
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host taobao.com
+taobao.com has address 140.205.220.96
+taobao.com has address 140.205.94.189
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.co.jp
+google.co.jp has address 216.58.194.35
+google.co.jp has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host bing.com
+bing.com has address 204.79.197.200
+bing.com has address 13.107.21.200
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host instagram.com
+instagram.com has address 54.175.107.36
+instagram.com has address 54.164.46.213
+instagram.com has address 54.173.161.156
+instagram.com has address 54.173.74.145
+instagram.com has address 54.173.152.112
+instagram.com has address 54.165.39.209
+instagram.com has address 54.172.44.240
+instagram.com has address 54.172.125.33
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host weibo.com
+weibo.com has address 180.149.134.141
+weibo.com has address 180.149.134.142
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host sina.com.cn
+sina.com.cn has address 202.108.33.107
+sina.com.cn has address 202.108.33.60
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ host linkedin.com
+linkedin.com has address 108.174.10.10
+linkedin.com has IPv6 address 2620:109:c002::6cae:a0a
+
+
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host yahoo.co.jp
+yahoo.co.jp has address 182.22.59.229
+yahoo.co.jp has address 183.79.135.206
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host msn.com
+msn.com has address 13.88.15.24
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host vk.com
+vk.com has address 87.240.165.91
+vk.com has address 87.240.165.83
+vk.com has address 87.240.165.84
+vk.com has IPv6 address 2a00:bdc0:2:18:1::213:16
+vk.com has IPv6 address 2a00:bdc0:2:18:1::213:17
+vk.com has IPv6 address 2a00:bdc0:2:18:1::213:18
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.de
+google.de has address 216.58.194.35
+google.de has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host yandex.ru
+yandex.ru has address 77.88.55.77
+yandex.ru has address 77.88.55.60
+yandex.ru has address 5.255.255.50
+yandex.ru has address 5.255.255.77
+yandex.ru has IPv6 address 2a02:6b8:a::a
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host hao123.com
+hao123.com has address 123.125.114.224
+hao123.com has address 123.125.115.150
+hao123.com has address 180.149.131.31
+hao123.com has address 180.149.132.19
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.co.uk
+google.co.uk has address 216.58.194.35
+google.co.uk has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host reddit.com
+reddit.com has address 151.101.193.140
+reddit.com has address 151.101.129.140
+reddit.com has address 151.101.65.140
+reddit.com has address 151.101.1.140
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host ebay.com
+ebay.com has address 66.211.185.25
+ebay.com has address 66.211.162.12
+ebay.com has address 66.211.160.86
+ebay.com has address 66.135.216.190
+ebay.com has address 66.211.181.123
+ebay.com has address 66.135.209.52
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.fr
+google.fr has address 216.58.194.35
+google.fr has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host t.co
+t.co has address 199.59.148.12
+t.co has address 199.59.150.44
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host tmall.com
+tmall.com has address 140.205.94.193
+tmall.com has address 140.205.130.99
+tmall.com mail is handled by 10 mx1.alibaba-inc.com.
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.br
+google.com.br has address 216.58.194.35
+google.com.br has IPv6 address 2607:f8b0:4003:c07::5e
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host 360.cn
+360.cn has address 125.88.190.56
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host sohu.com
+sohu.com has address 220.181.90.20
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host amazon.co.jp
+amazon.co.jp has address 54.240.248.0
+amazon.co.jp has address 54.240.250.0
+amazon.co.jp has address 54.240.252.0
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host pinterest.com
+pinterest.com has address 23.235.37.84
+pinterest.com has address 104.156.81.84
+pinterest.com has address 104.156.85.84
+pinterest.com has address 23.235.33.84
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host mail.ru
+mail.ru has address 217.69.139.199
+mail.ru has address 217.69.139.200
+mail.ru has address 94.100.180.201
+mail.ru has address 94.100.180.199
+mail.ru has IPv6 address 2a00:1148:db00:0:b0b0::1
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host onclickads.net
+onclickads.net has address 206.54.163.4
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host netflix.com
+netflix.com has address 54.88.83.29
+netflix.com has address 54.86.78.6
+netflix.com has address 52.206.181.38
+netflix.com has address 52.73.146.71
+netflix.com has address 52.206.68.176
+netflix.com has address 52.206.150.192
+netflix.com has address 52.0.47.132
+netflix.com has address 52.205.38.163
+netflix.com has IPv6 address 2406:da00:ff00::34cd:591a
+netflix.com has IPv6 address 2406:da00:ff00::3655:55f6
+netflix.com has IPv6 address 2406:da00:ff00::34cf:6f90
+netflix.com has IPv6 address 2406:da00:ff00::3653:e578
+netflix.com has IPv6 address 2406:da00:ff00::34cf:290e
+netflix.com has IPv6 address 2406:da00:ff00::3652:d711
+netflix.com has IPv6 address 2406:da00:ff00::3653:ae9f
+netflix.com has IPv6 address 2406:da00:ff00::3655:887e
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.it
+google.it has address 216.58.194.35
+google.it has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.ru
+google.ru has address 216.58.194.35
+google.ru has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host microsoft.com
+microsoft.com has address 191.239.213.197
+microsoft.com has address 104.40.211.35
+microsoft.com has address 104.43.195.251
+microsoft.com has address 23.100.122.175
+microsoft.com has address 23.96.52.53
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.es
+google.es has address 216.58.194.35
+google.es has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host wordpress.com
+wordpress.com has address 192.0.78.17
+wordpress.com has address 192.0.78.9
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host gmw.cn
+ingwang.xdwscache.ourwebpic.com has address 63.159.216.112
+guangmingwang.xdwscache.ourwebpic.com has address 220.243.235.201
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host tumblr.com
+tumblr.com has address 66.6.33.158
+tumblr.com has address 66.6.33.30
+tumblr.com has address 66.6.32.30
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host PayPal.com
+PayPal.com has address 64.4.250.24
+PayPal.com has address 64.4.250.23
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host blogspot.com
+blogspot.com has address 216.58.194.41
+blogspot.com has IPv6 address 2607:f8b0:4000:802::2009
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host imgur.com
+imgur.com has address 151.101.40.193
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host stackoverflow.com
+stackoverflow.com has address 151.101.1.69
+stackoverflow.com has address 151.101.129.69
+stackoverflow.com has address 151.101.193.69
+stackoverflow.com has address 151.101.65.69
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host aliexpress.com
+aliexpress.com has address 198.11.132.250
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host Naver.com
+Naver.com has address 125.209.222.142
+Naver.com has address 202.179.177.22
+Naver.com has address 202.179.177.21
+Naver.com has address 125.209.222.141
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host ok.ru
+ok.ru has address 217.20.155.58
+ok.ru has address 217.20.156.159
+ok.ru has address 5.61.23.5
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host apple.com
+apple.com has address 17.142.160.59
+apple.com has address 17.172.224.47
+apple.com has address 17.178.96.59
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host github.com
+github.com has address 192.30.253.112
+github.com has address 192.30.253.113
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.mx
+google.com.mx has address 216.58.194.35
+google.com.mx has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host chinadaily.com.cn
+chinadaily.com.cn has address 124.127.180.200
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host imdb.com
+imdb.com has address 72.21.206.80
+imdb.com has address 72.21.210.29
+imdb.com has address 207.171.166.22
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.co.kr
+google.co.kr has address 216.58.194.35
+google.co.kr has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host fc2.com
+fc2.com has address 52.41.146.181
+fc2.com has address 54.187.26.65
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host jd.com
+jd.com has address 111.206.227.118
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host blogger.com
+blogger.com has address 216.58.194.41
+blogger.com has IPv6 address 2607:f8b0:4000:802::2009
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host 163.com
+163.com has address 123.58.180.7
+163.com has address 123.58.180.8
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.ca
+google.ca has address 216.58.194.35
+google.ca has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.hk
+google.com.hk has address 216.58.194.35
+google.com.hk has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host whatsapp.com
+whatsapp.com has address 169.44.84.178
+whatsapp.com has address 169.44.82.102
+whatsapp.com has address 184.173.147.38
+whatsapp.com has address 192.155.212.203
+whatsapp.com has address 184.173.147.39
+whatsapp.com has address 192.155.212.202
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host amazon.in
+amazon.in has address 54.239.32.8
+amazon.in has address 54.239.34.40
+amazon.in has address 178.236.7.18
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host office.com
+office.com has address 104.215.194.17
+office.com has address 137.116.172.39
+office.com has address 13.69.187.20
+office.com has address 104.40.225.204
+office.com has address 40.117.226.146
+office.com has address 104.214.38.136
+office.com has address 104.41.62.54
+office.com has IPv6 address 2a01:111:f100:7000::6fdd:6cd5
+office.com has IPv6 address 2a01:111:f100:a004::bfeb:8ba7
+office.com has IPv6 address 2603:1020:201::37
+office.com has IPv6 address 2a01:111:f100:2002::8975:2da8
+office.com has IPv6 address 2603:1040:200::5e4
+office.com has IPv6 address 2a01:111:f100:4001::4625:a55a
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.tr
+google.com.tr has address 216.58.194.35
+google.com.tr has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host tianya.cn
+tianya.cn has address 124.225.65.154
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.co.id
+google.co.id has address 216.58.194.35
+google.co.id has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host youku.com
+youku.com has address 43.250.12.42
+youku.com has address 59.82.2.37
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host rakuten.co.jp
+rakuten.co.jp has address 133.237.48.124
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host craigslist.org
+craigslist.org has address 208.82.237.129
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host amazon.de
+amazon.de has address 54.239.34.172
+amazon.de has address 178.236.7.219
+amazon.de has address 54.239.32.138
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host nicovideo.jp
+nicovideo.jp has address 202.248.110.184
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.pl
+google.pl has address 216.58.194.35
+google.pl has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host soso.com
+soso.com has address 106.120.151.169
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host bilibili.com
+bilibili.com has address 42.96.146.169
+bilibili.com has address 120.24.248.50
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host dropbox.com
+dropbox.com has address 108.160.172.238
+dropbox.com has address 108.160.172.206
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host xinhuanet.com
+xinhuanet.com has address 202.108.119.193
+xinhuanet.com has address 202.108.119.194
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host outbrain.com
+outbrain.com has address 50.31.185.42
+outbrain.com has address 50.31.185.43
+outbrain.com has address 64.74.232.42
+outbrain.com has address 64.74.232.43
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host pixnet.net
+pixnet.net has address 103.23.108.107
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host alibaba.com
+alibaba.com has address 198.11.132.23
+alibaba.com has address 205.204.101.42
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host alipay.com
+alipay.com has address 110.76.19.33
+alipay.com has address 110.76.20.33
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host microsoftonline.com
+microsoftonline.com has address 65.55.39.10
+microsoftonline.com has address 64.4.6.100
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.tw
+google.com.tw has address 216.58.194.35
+google.com.tw has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host booking.com
+booking.com has address 5.57.16.220
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host googleusercontent.com
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.au
+google.com.au has address 216.58.194.35
+google.com.au has IPv6 address 2607:f8b0:4000:802::2003
+g
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host popads.net
+popads.net has address 216.21.13.13
+popads.net has address 216.21.13.12
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host cntv.cn
+cntv.cn is an alias for jump.cntv.cn.
+jump.cntv.cn has address 202.108.8.82
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host zhihu.com
+zhihu.com has address 54.223.189.245
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host amazon.co.uk
+amazon.co.uk has address 178.236.6.251
+amazon.co.uk has address 176.32.108.186
+amazon.co.uk has address 54.239.36.155
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host diply.com
+diply.com has address 23.2.251.20
+diply.com has IPv6 address 2600:1406:20:1a2::d80
+diply.com has IPv6 address 2600:1406:20:189::d80
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host coccoc.com
+coccoc.com has address 123.30.175.29
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host cnn.com
+cnn.com has address 151.101.64.73
+cnn.com has address 151.101.128.73
+cnn.com has address 151.101.192.73
+cnn.com has address 151.101.0.73
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host bbc.co.uk
+bbc.co.uk has address 212.58.244.22
+bbc.co.uk has address 212.58.244.23
+bbc.co.uk has address 212.58.246.79
+bbc.co.uk has address 212.58.246.78
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host twitch.tv
+twitch.tv has address 50.112.196.159
+twitch.tv has address 52.41.96.17
+twitch.tv has address 52.36.196.57
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host wikia.com
+wikia.com has address 104.156.81.194
+wikia.com has address 23.235.37.194
+wikia.com has address 104.156.85.194
+wikia.com has address 23.235.33.194
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.co.th
+google.co.th has address 216.58.194.35
+google.co.th has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.ar
+google.com.ar has address 216.58.194.35
+google.com.ar has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host go.com
+go.com has address 199.181.131.249
+go.com mail is handled by 0 mx.go.com.cust.b.hostedemail.com.
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.nl
+google.nl has address 216.58.194.35
+google.nl has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host ebay.co.uk
+ebay.co.uk has address 66.135.211.132
+ebay.co.uk has address 66.135.201.153
+ebay.co.uk has address 66.211.185.77
+ebay.co.uk has address 66.211.181.20
+ebay.co.uk has address 66.211.181.235
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host kat.cr
+Host kat.cr not found: 3(NXDOMAIN)
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host globo.com
+globo.com has address 186.192.90.5
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.ua
+google.com.ua has address 216.58.194.35
+google.com.ua has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host uol.com.br
+uol.com.br has address 200.147.67.142
+uol.com.br has address 200.221.2.45
+uol.com.br has IPv6 address 2804:49c:3103:401:ffff:ffff:ffff:1
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host avito.ru
+avito.ru has address 185.89.12.132
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.co
+google.com.co has address 216.58.194.35
+google.com.co has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.vn
+google.com.vn has address 4.35.2.157
+google.com.vn has address 4.35.2.148
+google.com.vn has address 4.35.2.158
+google.com.vn has address 4.35.2.172
+google.com.vn has address 4.35.2.183
+google.com.vn has address 4.35.2.178
+google.com.vn has address 4.35.2.163
+google.com.vn has address 4.35.2.187
+google.com.vn has address 4.35.2.162
+google.com.vn has address 4.35.2.177
+google.com.vn has address 4.35.2.167
+google.com.vn has address 4.35.2.173
+google.com.vn has address 4.35.2.153
+google.com.vn has address 4.35.2.168
+google.com.vn has address 4.35.2.182
+google.com.vn has address 4.35.2.152
+google.com.vn has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host google.com.ph
+google.com.ph has address 216.58.194.35
+google.com.ph has IPv6 address 2607:f8b0:4000:802::2003
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host doubleclick.net
+doubleclick.net has address 216.58.194.46
+doubleclick.net has IPv6 address 2607:f8b0:4000:802::200e
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host onet.pl
+onet.pl has address 213.180.141.140
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host googleadservices.com
+googleadservices.com has address 216.58.194.34
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host accuweather.com
+accuweather.com has address 207.242.93.24
+
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host googleweblight.com
+googleweblight.com has address 216.58.194.33
+googleweblight.com has IPv6 address 2607:f8b0:4000:802::2001
+Nicholss-MacBook-Air:~ NicholsSullivan$ Host answers.yahoo.com
+answers.yahoo.com is an alias for fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net.
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has address 216.115.96.177
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has address 216.115.96.178
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has address 216.115.110.119
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has address 216.115.110.118
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has IPv6 address 2001:4998:f00d:1fe::3001
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has IPv6 address 2001:4998:f00d:1fc::c:1105
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has IPv6 address 2001:4998:f00d:1fc::c:1106
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net has IPv6 address 2001:4998:f00d:1fe::3000
+Nicholss-MacBook-Air:~ NicholsSullivan$
+Nicholss-MacBook-Air:~ NicholsSullivan$
